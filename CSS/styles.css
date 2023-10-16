@@ -75,7 +75,6 @@ a{
 
 
 .header-soc-link {
-    color: var(--SLATE, #434455);
 font-size: 16px;
 line-height: 1,50;
 letter-spacing: 0,02em;
@@ -184,7 +183,6 @@ letter-spacing: 0.4px;
 
 
 .team-item-text {
-    color: var(--SLATE, #434455);
 text-align: center;
 font-size: 16px;
 font-weight: 400;
